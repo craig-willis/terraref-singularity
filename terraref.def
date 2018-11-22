@@ -1,0 +1,5 @@
+Bootstrap: docker
+From: terraref/workflow-pilot
+
+%post
+   mkdir /data
